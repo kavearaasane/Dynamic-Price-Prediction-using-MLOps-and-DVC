@@ -5,7 +5,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
 
-project_name = "mlProject"
+project_name = "dynamic_price"
 
 
 list_of_files = [
