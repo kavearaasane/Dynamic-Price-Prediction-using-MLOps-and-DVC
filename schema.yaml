@@ -1,1 +1,14 @@
-key : val
+COLUMNS:
+    Number_of_Riders: int64  
+    Number_of_Drivers: int64  
+    Location_Category:  object 
+    Customer_Loyalty_Status: object 
+    Number_of_Past_Rides: int64  
+    Average_Ratings: float64
+    Time_of_Booking: object 
+    Vehicle_Type: object 
+    Expected_Ride_Duration: int64  
+    Historical_Cost_of_Ride: float64
+
+TARGET_COLUMN:
+  name: Historical_Cost_of_Ride
