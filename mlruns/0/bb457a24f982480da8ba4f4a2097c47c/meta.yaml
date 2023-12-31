@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bb457a24f982480da8ba4f4a2097c47c/artifacts
+end_time: 1704036634268
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb457a24f982480da8ba4f4a2097c47c
+run_name: youthful-carp-921
+run_uuid: bb457a24f982480da8ba4f4a2097c47c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704036624216
+status: 4
+tags: []
+user_id: kavearaasane
