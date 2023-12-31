@@ -77,6 +77,4 @@ export MLFLOW_TRACKING_URI=https://dagshub.com/kavearaasane/Dynamic-Price-Predic
 
 export MLFLOW_TRACKING_USERNAME=kavearaasane
 
-export MLFLOW_TRACKING_PASSWORD=6f3a32f9e8e643ec9833ea8d8dd47bb2fdc46f5c 
-
 ```
