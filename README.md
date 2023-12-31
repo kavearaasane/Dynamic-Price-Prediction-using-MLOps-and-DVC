@@ -12,3 +12,71 @@
 7. Update the pipeline 
 8. Update the main.py
 9. Update the dvc.yaml
+
+
+
+# How to run?
+### STEPS:
+
+Clone the repository
+
+```bash
+https://github.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow
+```
+### STEP 01- Create a conda environment after opening the repository
+
+```bash
+conda create -n mlproj python=3.8 -y
+```
+
+```bash
+conda activate mlproj
+```
+
+
+### STEP 02- install the requirements
+```bash
+pip install -r requirements.txt
+```
+
+
+```bash
+# Finally run the following command
+python app.py
+```
+
+Now,
+```bash
+open up you local host and port
+```
+
+
+
+## MLflow
+
+[Documentation](https://mlflow.org/docs/latest/index.html)
+
+
+##### cmd
+- mlflow ui
+
+### dagshub
+[dagshub](https://dagshub.com/)
+
+MLFLOW_TRACKING_URI=https://dagshub.com/kavearaasane/Dynamic-Price-Prediction-using-MLOps-and-DVC.mlflow \
+MLFLOW_TRACKING_USERNAME=kavearaasane \
+MLFLOW_TRACKING_PASSWORD=6f3a32f9e8e643ec9833ea8d8dd47bb2fdc46f5c \
+python script.py
+
+
+Run this to export as env variables:
+
+```bash
+
+export MLFLOW_TRACKING_URI=https://dagshub.com/kavearaasane/Dynamic-Price-Prediction-using-MLOps-and-DVC.mlflow
+
+export MLFLOW_TRACKING_USERNAME=kavearaasane
+
+export MLFLOW_TRACKING_PASSWORD=6f3a32f9e8e643ec9833ea8d8dd47bb2fdc46f5c 
+
+```

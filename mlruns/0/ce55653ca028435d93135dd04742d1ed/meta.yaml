@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ce55653ca028435d93135dd04742d1ed/artifacts
+end_time: 1703863317742
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce55653ca028435d93135dd04742d1ed
+run_name: welcoming-skunk-26
+run_uuid: ce55653ca028435d93135dd04742d1ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703863288975
+status: 4
+tags: []
+user_id: kavearaasane

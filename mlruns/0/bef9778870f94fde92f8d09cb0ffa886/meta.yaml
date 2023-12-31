@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bef9778870f94fde92f8d09cb0ffa886/artifacts
+end_time: 1703864434175
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bef9778870f94fde92f8d09cb0ffa886
+run_name: shivering-mule-124
+run_uuid: bef9778870f94fde92f8d09cb0ffa886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703864428365
+status: 4
+tags: []
+user_id: kavearaasane

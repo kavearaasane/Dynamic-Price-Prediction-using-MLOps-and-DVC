@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3ce80e2f4b524369a055a244aa404b08/artifacts
+end_time: 1704028786945
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ce80e2f4b524369a055a244aa404b08
+run_name: burly-goat-91
+run_uuid: 3ce80e2f4b524369a055a244aa404b08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704028780498
+status: 4
+tags: []
+user_id: kavearaasane
