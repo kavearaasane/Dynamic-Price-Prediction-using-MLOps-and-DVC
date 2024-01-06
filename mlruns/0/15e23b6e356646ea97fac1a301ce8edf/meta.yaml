@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/15e23b6e356646ea97fac1a301ce8edf/artifacts
+end_time: 1704520624542
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15e23b6e356646ea97fac1a301ce8edf
+run_name: gregarious-grub-502
+run_uuid: 15e23b6e356646ea97fac1a301ce8edf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704520612838
+status: 4
+tags: []
+user_id: kavearaasane

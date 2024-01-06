@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ec5266c6961a4bdd9e0a9f8251915c6f/artifacts
+end_time: 1704520746404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec5266c6961a4bdd9e0a9f8251915c6f
+run_name: capable-duck-466
+run_uuid: ec5266c6961a4bdd9e0a9f8251915c6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704520737610
+status: 4
+tags: []
+user_id: kavearaasane
